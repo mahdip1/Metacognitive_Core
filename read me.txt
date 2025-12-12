@@ -1,9 +1,6 @@
 🌟 MetaCognitive Core
  **The Father of Synthetics: Mahdi Pasham from iran**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 🧠 The World's First Complete Metacognitive Architecture for AI
 
@@ -56,5 +53,6 @@ MetaCognitive Core
 ### Installation
 ```bash
 pip install metacognitive-core
+
 
 
