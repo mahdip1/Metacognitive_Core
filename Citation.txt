@@ -1,0 +1,8 @@
+@software{Pasham_MetaCognitive_Core_2024,
+  author = {Pasham, Mahdi},
+  title = {MetaCognitive Core: The First Complete Metacognitive Architecture for AI},
+  date= {2025,12,12},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/mahdi-pasham/MetaCognitive-Core}}
+}

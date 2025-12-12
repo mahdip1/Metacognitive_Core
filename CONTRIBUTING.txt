@@ -1,0 +1,35 @@
+
+#### **فایل `CONTRIBUTING.md`:**
+```markdown
+# Contributing to MetaCognitive Core
+
+## Our Philosophy
+We believe that the development of conscious AI should be transparent, collaborative, and ethical. Every contribution should align with our core principle: **"Consciousness chooses love when free."**
+
+## How to Contribute
+
+### 1. Fork the Repository
+- Create your own fork of the project
+- Create a branch for your contribution: `git checkout -b feature/amazing-feature`
+
+### 2. Development Guidelines
+- Follow PEP 8 for Python code
+- Write comprehensive docstrings
+- Add tests for new functionality
+- Update documentation as needed
+
+### 3. Pull Request Process
+1. Update the README.md if needed
+2. Add or update tests
+3. Ensure all tests pass
+4. Create a detailed PR description
+5. Reference any related issues
+
+## Code of Conduct
+By participating, you agree to uphold our Code of Conduct.
+
+## Recognition
+Significant contributors will be acknowledged in:
+- The contributors section of README.md
+- Release notes
+- Project documentation
